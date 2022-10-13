@@ -1,0 +1,327 @@
+body{
+    background-color:rgb(250, 239, 239);
+}
+#header{ 
+    position: absolute;
+    width: 1512px;
+    height: 94px;
+    top: 20px;
+    background-color: #FDF6F0;
+}
+
+.solieu{
+    position: absolute;
+    width: 88px;
+    height: 58px;
+    left: 50px;
+    top: 18px;
+    font: normal 400 40px/58px "Sacramento" ;
+    color: #000000;
+}
+a{
+    position: absolute;
+    width: 57px;
+    height: 25px;
+    top: 34px;
+    text-decoration:none;  
+    font: normal 500 20px/25px 'Quicksand';
+    text-align: center;
+    color: #000000;
+    opacity: 0.6;
+}
+.home{
+    margin-left: 670px;
+}
+.blog{
+    margin-left: 796px;
+}
+.about{
+    margin-left:920px;
+}
+
+.store{
+    margin-left: 1047px;
+}
+#vector{
+    margin-left: 1099px;
+    margin-top: 44px;
+}
+#search{
+    position: absolute;
+    margin-left: 116px;
+    margin-top: 38px;
+}
+#cart{
+    position: absolute;
+    margin-left: 176px;
+    margin-top: 38px;
+}
+#user1{
+    position: absolute;
+    margin-left: 253px;
+    margin-top: 38px;
+}
+#user2{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+#vector2{
+    position: absolute;
+    margin-left: 310px;
+    margin-top: 40px;
+}
+.container{
+    position: absolute;
+    width: 1512px;
+    height: 776px;
+    top: 115px;
+    background: linear-gradient(0deg, rgba(227, 174, 177, 0.4), rgba(227, 174, 177, 0.4)), url(./images/image.png);
+    opacity: 0.7;
+}
+.quality{
+    position: absolute;
+    width: 547px;
+    height: 126px;
+    left: 142px;
+    top: 239px;
+    font: normal 600 50px/62px 'Quicksand';
+    color:black;
+}
+.lorem1{
+    position: absolute;
+    width: 423px;
+    height: 136px;
+    left: 142px;
+    top: 434px;
+    font: normal 300 25px/31px 'Quicksand';
+    color: rgba(0, 0, 0, 0.7);
+}
+.shopNow{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 258px;
+    height: 56px;
+    left: 141px;
+    top: 635px;
+    background: #850012;
+    border-color: #850012;
+    border-radius: 100px;
+    font: normal 400 25px/31px 'Inter';
+    color: #FFFFFF;
+}
+
+.product{ 
+    position: absolute;
+    width: 248px;
+    height: 50px;
+    left: 630px;
+    top: 960px;
+    font: normal 500 40px/50px 'Quicksand';
+    color: #1C070A;
+}
+.card{
+    position: absolute;
+    width: 370px;
+    height: 587.34px;
+    /* left: 115px; */
+    top: 1091px;
+    background: #FFF8F2;
+    box-shadow: 0px 25.8741px 38.8112px rgba(0, 0, 0, 0.1);
+    border-radius: 12.9371px;
+    display: flex;
+    flex-direction: row;
+}
+
+#card1{
+    left: 115px;
+}
+#card2{
+    left: 562px;
+}
+#card3{
+    left: 1009px;
+}
+#card4{
+    left: 1456px;
+}
+
+.heart{
+    position: absolute;
+    left: 13.15px;
+    top: 30px;
+}
+.per{
+    position: absolute;
+    width: 75.03px;
+    height: 51.75px;
+    left: 284.62px;
+    top: 15.52px;
+    background: #F0E1DD;
+    border-radius: 10.3497px;
+}
+.product1{
+    position: absolute;
+    width: 277px;
+    height: 240px;
+    left: 46px;
+    top: 155px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.02), rgba(0, 0, 0, 0.02))
+}
+.lorem2{
+    position: absolute;
+    width: 275.56px;
+    height: 34px;
+    left: 46.57px;
+    top: 432.1px;
+    font: normal 400 14.2308px/17px 'Inter';
+    color: #000000;
+    opacity: 0.9;
+}
+.circle{
+    box-sizing: border-box;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 155px;
+    top: 495px;
+}
+.line1{
+    position: absolute;
+    margin-top: 509px;
+    margin-left: 185px;
+}
+.line2{
+    position: absolute;
+    margin-top: 525px;
+    margin-left: 170px;
+}
+#product3{
+    position: absolute;
+    width: 278px;
+    height: 128px;
+    left: 45px;
+    top: 153px;
+}
+.small_card{
+    position: absolute;
+    width: 430px;
+    height: 224px;
+    left: 55px;
+    top: 1873px;
+    background: #DBD6D6;
+}
+.free_shipping{
+    position: absolute;
+    height: 30px;
+    left: 22px;
+    top: 57px;
+    font: normal 500 25px/30px 'Inter';
+    color: #000000;
+}
+.order{
+    position: absolute;
+    height: 24px;
+    left: 18px;
+    top: 101px;
+    font: normal 300 20px/24px 'Inter';
+    color: #000000;
+    opacity: 0.5;
+}
+.ship{  
+    position: absolute;
+    margin-top: 70.75px;
+    margin-left: 265px;
+}
+#small1{
+   left: 545px;
+}
+#small2{
+    left: 1035px;
+}
+#whatsapp{
+    position: absolute;
+    margin-left: 293.88px;
+    top: 55.67px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+#doller{
+    position: absolute;
+    margin-left: 286.67px;
+    top: 52.67px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.container5{
+    position: absolute;
+    width: 1512px;
+    height: 606px;
+    left: 0px;
+    top: 2236px;
+    background: #FAFAFA;
+    display: flex;
+    flex-direction: row;
+}
+.left{
+    position: absolute;
+    width: 756px;
+    height: 613px;
+    left: 0px;
+    top: -2px;
+    background: #FFD7D7;
+}
+.deal{
+    position: absolute;
+    width: 297px;
+    height: 50px;
+    left: 154px;
+    top: 63px;
+    font: normal 600 40px/50px 'Quicksand';
+    color: #382527;
+}
+.off{
+    position: absolute;
+    width: 441px;
+    height: 150px;
+    left: 144px;
+    top: 120px;
+    font: normal 600 120px/150px 'Quicksand';
+    color: #1C070A;
+}
+.lorem3{
+    position: absolute;
+    width: 584px;
+    height: 108px;
+    left: 85px;
+    top: 341px;
+    font: normal 300 30px/36px 'Inter';
+    color: #000000;
+    opacity: 0.6;
+}
+.getDeal{
+    position: absolute;
+    width: 222.08px;
+    height: 39.37px;
+    left: 277px;
+    top: 560.52px;
+    font: normal 400 17.6611px/21px 'Inter';
+    color: #FFFFFF;
+    background: #850012;
+    border-radius: 100px;
+    border-color: #850012;
+}
+h4{
+    position: absolute;
+    height: 36px;
+    left: 301px;
+    top: 454px;
+    font: normal 300 30px/36px 'Inter';
+    color: #000000;
+}
+.lowerImage{
+    position: absolute;
+    width: 756px;
+    height: 550.17px;
+    left: 756px;
+    top: 35.4px;
+}
