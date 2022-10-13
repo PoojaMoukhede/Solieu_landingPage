@@ -325,3 +325,105 @@ h4{
     left: 756px;
     top: 35.4px;
 }
+.ellips{
+    position: absolute;
+width: 47px;
+height: 47px;
+left: 528px;
+top: 14px;
+border-radius: 100%;
+background: #E3AEB1;
+opacity: 0.2;
+}
+.ellips2{
+    position: absolute;
+    border-radius: 100%;
+width: 47px;
+height: 47px;
+left: 55px;
+top: 138px;
+
+background: #E3AEB1;
+opacity: 0.1;
+}
+.ellips3{
+    position: absolute;
+width: 47px;
+height: 47px;
+left: 79px;
+top: 439px;
+border-radius: 100%;
+background: #E3AEB1;
+opacity: 0.2;
+}
+.ellips8{
+    position: absolute;
+width: 233px;
+height: 254px;
+left: -155px;
+top: 185px;
+border-radius: 100%;
+background: #E3AEB1;
+opacity: 0.1;
+}
+.ellips21{
+    position: absolute;
+width: 72px;
+height: 72px;
+left: 398px;
+top: 427px;
+border-radius: 100%;
+background: #E3AEB1;
+opacity: 0.2;
+}
+.ellips81{
+    position: absolute;
+width: 123px;
+height: 123px;
+left: 557px;
+top: 529px;
+border-radius: 100%;
+background: #E3AEB1;
+opacity: 0.1;
+}
+.ellips9{
+    position: absolute;
+width: 123px;
+height: 123px;
+left: 178px;
+top: 480px;
+border-radius: 100%;
+background: #E3AEB1;
+opacity: 0.1;
+}
+.ellips5{
+    position: absolute;
+width: 156.86px;
+height: 171px;
+left: 688px;
+top: 407px;
+border-radius: 100%;
+background: #E3AEB1;
+opacity: 0.1;
+}
+.ellips11{
+    position: absolute;
+width: 123px;
+height: 123px;
+left: 202.15px;
+top: 244.78px;
+border-radius: 100%;
+background: #E3AEB1;
+opacity: 0.1;
+transform: rotate(35.36deg);
+}
+.ellips31{
+    position: absolute;
+width: 96.32px;
+height: 105px;
+left: 558px;
+top: 96px;
+border-radius: 100%;
+background: #E3AEB1;
+opacity: 0.1;
+}
